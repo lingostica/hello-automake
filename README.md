@@ -1,7 +1,7 @@
 # hello-automake
-GNU Automake HOWTO
+##GNU Automake HOWTO
 ==================
-
+```bash
 > aclocal
 
 > autoconf
