@@ -1,7 +1,7 @@
 # hello-automake
 GNU Automake HOWTO
 ==================
-```bash
+```shell
 > aclocal
 > autoconf
 > automake --add-missing
